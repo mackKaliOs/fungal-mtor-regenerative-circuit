@@ -62,8 +62,24 @@ Built with a hybrid model of **Systems Biology + Neuromorphic Logic**:
 ## 🧩 Installation
 
 ```bash
-git clone https://github.com/mackKaliOs/mackintosh-codex.git
-cd mackintosh-codex
+git clone https://github.com/mackKaliOs/fungal-mtor-regenerative-circuit/tree/main
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+```
+
+---
+
+📚 Citation
+
+If you use this research, please cite:
+
+Mackintosh, K. (2025). The Fungal–mTOR Regenerative Circuit: An Ecological and Computational Model for Cellular Longevity.
+The Mackintosh Code (v1.0). https://kayleighymackintosh.substack.com
+
+⸻
+
+🌿 License
+
+This project is licensed under the MIT License.
+© 2025 Kayleighy Mackintosh — Open Science for Regeneration and Truth.
