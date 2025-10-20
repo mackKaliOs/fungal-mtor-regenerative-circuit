@@ -83,3 +83,30 @@ The Mackintosh Code (v1.0). https://kayleighymackintosh.substack.com
 
 This project is licensed under the MIT License.
 © 2025 Kayleighy Mackintosh — Open Science for Regeneration and Truth.
+
+## 🤝 Funding & Collaboration
+
+<p align="center">
+The <b>Fungal–mTOR Regenerative Circuit (FMRC)</b> is open for <b>collaborative research</b>, experimental validation, and multi-disciplinary partnerships.
+</p>
+
+<p align="center">
+🌱 <b>Focus Areas</b>  
+Quantum Biology • Neuroenergetics • Mitochondrial Longevity  
+Mycology • Ergothioneine Synthesis • Metabolite Pathways  
+Neuromorphic Computation • Regenerative Medicine • Oncology
+</p>
+
+<p align="center">
+If you are an institution, researcher, or foundation interested in supporting this work, please connect:  
+</p>
+
+<p align="center">
+📧 <a href="mailto:kayleighy@mackintoshenterprises.com">research@mackintoshenterprises.com</a> •  
+🌐 <a href="https://mackintoshenterprises.com">mackintoshenterprises.com</a> •  
+🧬 <a href="https://kayleighymackintosh.substack.com">Substack: The Mackintosh Code</a>
+</p>
+
+<p align="center"><i>
+“Open collaboration accelerates evolution — from biology to code, from cell to cosmos.”
+</i></p>
