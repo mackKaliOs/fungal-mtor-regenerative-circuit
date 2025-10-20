@@ -1,0 +1,5 @@
+      - name: Publish to Substack
+        if: github.ref == 'refs/heads/main'
+        env:
+          SUBSTACK_API_KEY: ${{ secrets.SUBSTACK_API_KEY }}
+        run: python scripts/publish_to_substack.py
